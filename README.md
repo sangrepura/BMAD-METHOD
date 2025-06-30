@@ -382,6 +382,28 @@ npm run build # rebuild the dist folder
 npm run install:bmad # build and install all to a destination folder
 ```
 
+### Testing with Your Fork
+
+After forking and cloning the repository, you can test your changes directly from your GitHub fork using `npx` without needing to publish to npm. This allows for rapid testing of your contributions.
+
+1.  **Push Changes to Your Fork**: Ensure all your changes are committed and pushed to a branch on your fork.
+
+    ```bash
+    git push origin your-feature-branch
+    ```
+
+2.  **Run `bmad-method` from Your Fork**: Use the `npx` command with the `github:` prefix to point to your repository.
+
+    ```bash
+    npx github:your-username/bmad-method#your-feature-branch -- install
+    ```
+
+    -   Replace `your-username` with your GitHub username.
+    -   Replace `your-feature-branch` with the name of your branch.
+    -   The `--` separates the `npx` arguments from the script's arguments.
+
+This command will download and run the `bmad-method` CLI from your specified branch, allowing you to test your changes in a real project environment.
+
 [![Contributors](https://contrib.rocks/image?repo=bmadcode/bmad-method)](https://github.com/bmadcode/bmad-method/graphs/contributors)
 
 <sub>Built with ❤️ for the AI-assisted development community</sub>
