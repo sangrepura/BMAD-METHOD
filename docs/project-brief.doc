@@ -1,0 +1,57 @@
+# Project Brief: Coastal Sites
+
+## 1. Executive Summary
+Coastal Sites is a modern web development agency specializing in high-performance websites and e-commerce platforms for small to medium-sized businesses (SMBs) in coastal communities. By leveraging a proprietary AI-accelerated development system, we deliver premium, custom-quality digital products with industry-leading speed. Our core value is bridging the gap between expensive, slow-moving custom agencies and generic, low-performance DIY website builders, offering a full suite of services including branding, development, and local SEO to become a true digital partner for our clients.
+
+## 2. Problem Statement
+Traditional web development is often slow, opaque, and prohibitively expensive for many SMBs. This leaves them with either an outdated, ineffective web presence or a generic template site that fails to capture their brand essence and convert visitors into customers. Businesses in competitive, tourism-driven coastal markets need to be agile and professional online, but they often lack the time, technical expertise, and budget required for a high-end agency project. This creates a significant market gap for a service that offers both quality and speed at an accessible price point.
+
+## 3. Proposed Solution
+Coastal Sites will provide a full-service digital partnership for our clients. Our key differentiator is a proprietary AI-powered system that automates up to 70% of routine development tasks, allowing our team to focus on high-value activities: strategy, custom design, branding, and local SEO.
+
+**Value Proposition:**
+* **Speed:** We launch complete websites and e-commerce platforms in weeks, not months.
+* **Quality & Performance:** We build fast, secure, and conversion-optimized sites that rival the quality of high-end agencies.
+* **Partnership:** We offer an integrated solution that includes logo creation, branding, development, and ongoing local SEO.
+
+## 4. Target Users
+* **Segment 1: The Coastal Retailer** (e.g., Boutique Shops, Souvenir Stores): Needs a professional e-commerce platform.
+* **Segment 2: The Coastal Experience & Rental Provider** (e.g., Real Estate Rentals, Charter Fishing, Dolphin Tours): Needs a custom online booking platform to increase direct, commission-free bookings.
+
+## 5. Goals & Success Metrics
+### 5.1. Business Objectives
+* Launch agency services and acquire the first 5-10 paying clients within the first 6 months.
+* Achieve an average project delivery time of under 21 days for standard e-commerce sites.
+* Establish a strong brand reputation within the U.S. Gulf Coast.
+* Secure a 25% client retention rate on the "AI Maintenance & Growth" retainer within the first year.
+### 5.2. Key Performance Indicators (KPIs)
+* Client Acquisition Cost (CAC)
+* Lead-to-Client Conversion Rate
+* Average Revenue Per Client (ARPC)
+* Client Satisfaction Score (CSAT/NPS)
+
+## 6. MVP Scope
+### 6.1. Core Services (In Scope)
+* **The Digital Presence:** A professional, single-page site with smooth-scrolling sections.
+* **The E-commerce Engine:** A complete, ready-to-sell online store.
+* **AI Maintenance & Growth (Retainer):** A monthly subscription for updates and optimization.
+### 6.2. Out of Scope for Initial Launch
+* **The Custom Application:** Custom booking engines will be taken on a case-by-case basis post-MVP.
+* National marketing campaigns.
+* A self-service client portal (beyond the MVP version).
+
+## 7. Technical Considerations
+* **Platform Requirements:** All sites must be responsive, mobile-first, and optimized for Core Web Vitals.
+* **Technology Preferences:** Next.js, Tailwind CSS, BaaS (e.g., Supabase/Neon), and AI tooling.
+* **Architecture Considerations:** A monorepo structure.
+
+## 8. Risks & Open Questions
+* **Execution Risk:** The AI-powered system must deliver on the promised speed efficiencies.
+* **Market Risk:** Intense competition from DIY platforms and local agencies.
+* **Sales Risk:** Effectively communicating the value of a premium product over cheaper alternatives.
+
+## 9. Next Steps
+* Finalize pricing for service packages.
+* Develop the `coastalsites.dev` marketing website.
+* Create a detailed client onboarding process.
+* Handoff to the Product Manager to create the PRD.
